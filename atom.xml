@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>HailunBlog</title>
+  
+  <subtitle>和有趣的人做尽有趣的事</subtitle>
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2021-03-17T07:08:47.502Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>主理人：Hailun</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2021-03-15 需求</title>
+    <link href="http://example.com/wiki/Work/2021-03-15%20%E9%9C%80%E6%B1%82/"/>
+    <id>http://example.com/wiki/Work/2021-03-15%20%E9%9C%80%E6%B1%82/</id>
+    <published>2021-03-17T06:20:27.718Z</published>
+    <updated>2021-03-17T07:08:47.502Z</updated>
+    
+    <content type="html"><![CDATA[<p><strong>2021-03-15 需求</strong></p><p>刘—1 2 7 箱子– 还箱时长 &amp; 还箱状态 &amp; 箱子信息”中增加字段“EIR状态          </p><p>刘—6 11 订单状态    </p><p>刘—13  忘记密码功能</p><p>黄—3  5  9 下拉查询 新增 “首字母拼音”搜索             </p><p>黄—10 14 15 新建订单  匹配问题 数据复制   预录匹配规则        </p><p>黄—17  打印            </p><p>​                       </p><p>4  放箱端委托同行业务</p><p>8  分段预审</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;strong&gt;2021-03-15 需求&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;刘—1 2 7 箱子– 还箱时长 &amp;amp; 还箱状态 &amp;amp; 箱子信息”中增加字段“EIR状态          &lt;/p&gt;
+&lt;p&gt;刘—6 11 订单状态    &lt;/p&gt;
+&lt;p&gt;刘—13  忘记</summary>
+      
+    
+    
+    
+    <category term="Work" scheme="http://example.com/categories/Work/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>简历</title>
+    <link href="http://example.com/wiki/Resume/%E7%AE%80%E5%8E%86/"/>
+    <id>http://example.com/wiki/Resume/%E7%AE%80%E5%8E%86/</id>
+    <published>2021-03-17T06:20:27.705Z</published>
+    <updated>2021-03-17T07:08:35.924Z</updated>
+    
+    <content type="html"><![CDATA[<p>简历<br>    简历通发<br>    针对公司业务修改自己简历<br>    模拟自测/面试-重要</p><p>坑点<br>    盲目跟风，夸大其词，自负，细节决定成败</p><p>渠道<br>    内推，朋友介绍，职业猎头</p><p>行业<br>    前景，同行的的评价，生态</p><p>todolist</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;简历&lt;br&gt;    简历通发&lt;br&gt;    针对公司业务修改自己简历&lt;br&gt;    模拟自测/面试-重要&lt;/p&gt;
+&lt;p&gt;坑点&lt;br&gt;    盲目跟风，夸大其词，自负，细节决定成败&lt;/p&gt;
+&lt;p&gt;渠道&lt;br&gt;    内推，朋友介绍，职业猎头&lt;/p&gt;
+&lt;p&gt;行业&lt;br&gt;    </summary>
+      
+    
+    
+    
+    <category term="Resume" scheme="http://example.com/categories/Resume/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>框架对比</title>
+    <link href="http://example.com/wiki/Javascript/%E6%A1%86%E6%9E%B6%E5%AF%B9%E6%AF%94/"/>
+    <id>http://example.com/wiki/Javascript/%E6%A1%86%E6%9E%B6%E5%AF%B9%E6%AF%94/</id>
+    <published>2021-03-17T06:20:27.694Z</published>
+    <updated>2021-03-17T07:07:22.648Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="vue和react的区别"><a href="#vue和react的区别" class="headerlink" title="vue和react的区别"></a>vue和react的区别</h3><h6 id="虚拟DOM："><a href="#虚拟DOM：" class="headerlink" title="虚拟DOM："></a>虚拟DOM：</h6><p>vue：计算出虚拟DOM的差异，在渲染的过程中跟踪每个组件的依赖关系，不会重新渲染整个组件树<br>react：当应用的状态改变时，重新渲染全部子组件，可以通过shouldComponentUpdate生命周期进行优化</p><h6 id="模板和jsx："><a href="#模板和jsx：" class="headerlink" title="模板和jsx："></a>模板和jsx：</h6><p>vue：具有单文件组件，可以把html、css、js写在一个vue文件里—-MVVM框架<br>react：依赖于jsx，在JavaScript中创建DOM—-视图层框架</p><h6 id="数据绑定"><a href="#数据绑定" class="headerlink" title="数据绑定"></a>数据绑定</h6><p>vue是响应式的数据双向绑定系统，而react是单向数据流，没有双向绑定。</p><h6 id="应用"><a href="#应用" class="headerlink" title="应用"></a>应用</h6><p>vue的语法较为简单，适用于小型项目创建，而react更适用于Web端和原生App的开发，侧重于大型应用。<br>组件写法不一样<br>react推荐的做法是JSX+inline style,也就是把HTML和CSS全都写进javaScript了</p><h6 id="state对象"><a href="#state对象" class="headerlink" title="state对象"></a>state对象</h6><p>state对象在react应用中是不可变的，需要使用setState方法更新状态<br>在vue中，state对象不是必须的，数据有data属性在vue对象中管理</p><h6 id="模板渲染方式的不同"><a href="#模板渲染方式的不同" class="headerlink" title="模板渲染方式的不同"></a>模板渲染方式的不同</h6><p>在表层上，模板的语法不同，React是通过JSX渲染模板。而Vue是通过一种拓展的HTML语法进行渲染，但其实这只是表面现象，毕竟React并不必须依赖JSX。<br>在深层上，模板的原理不同，这才是他们的本质区别：React是在组件JS代码中，通过原生JS实现模板中的常见语法，比如插值，条件，循环等，都是通过JS语法实现的，更加纯粹更加原生。而Vue是在和组件JS代码分离的单独的模板中，通过指令来实现的，比如条件语句就需要 v-if 来实现对这一点，这样的做法显得有些独特，会把HTML弄得很乱。<br>举个例子，说明React的好处：react中render函数是支持闭包特性的，所以我们import的组件在render中可以直接调用。但是在Vue中，由于模板中使用的数据都必须挂在 this 上进行一次中转，所以我们import 一个组件完了之后，还需要在 components 中再声明下，这样显然是很奇怪但又不得不这样的做法。<br>react会把一个简单的组件分成了好多份。就像说的单向数据流，每个组件是在”取公用的顶层资源“来解决问题。vue是获取少量的”顶层资源“，实现业务独立性，某种意义上，vue更注重业务逻辑的解耦，react更注重代码是面向对象的。 react是教组件你怎么做，vue是告诉你要做的功能，一个像领导指手画脚给你东西处理，另一个是告诉你他想要什么，你直接告诉领导结果。vue是分配任务制的。</p><h6 id="对比总结："><a href="#对比总结：" class="headerlink" title="对比总结："></a>对比总结：</h6><p>1、如果你喜欢简洁，喜欢组件业务解耦，喜欢把重复的事情交给自带的，不喜欢一大堆的全局状态（vue有时候甚至不需要全局状态），那么你就选择vue，它的思想就是把一些事情规范起来，让组件足够独立。<br>2、如果你觉得你更喜欢纯粹的语言风格，那react就是为这个而生的，jsx就是很好的例子，它所有思想其实都是为了让你纯粹的写一个个类（组件），这就意味着有些东西你需要自己来，响应的实现某一个事情，你需要的插件也不少，一个相同的项目，我用vue重新写一遍，插件是react的1/3</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h3 id=&quot;vue和react的区别&quot;&gt;&lt;a href=&quot;#vue和react的区别&quot; class=&quot;headerlink&quot; title=&quot;vue和react的区别&quot;&gt;&lt;/a&gt;vue和react的区别&lt;/h3&gt;&lt;h6 id=&quot;虚拟DOM：&quot;&gt;&lt;a href=&quot;#虚拟DOM：&quot;</summary>
+      
+    
+    
+    
+    <category term="Javascript" scheme="http://example.com/categories/Javascript/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>typescript</title>
+    <link href="http://example.com/wiki/Javascript/typescript/"/>
+    <id>http://example.com/wiki/Javascript/typescript/</id>
+    <published>2021-03-17T06:20:27.690Z</published>
+    <updated>2021-03-17T07:07:29.133Z</updated>
+    
+    <content type="html"><![CDATA[<p>编程语言的类型<br>    * 动态类型语言(运行的时候 数据类型检查)<br>    * 静态类型语言(编译的时候 数据类型检查)</p><p>为什么使用<br>    * 程序更容易理解 &gt;代码就是注释<br>    * 效率更高 &gt;代码补全 代码跳转 接口提示<br>    * 更少的错误 &gt;编译时期能够发现错误<br>    * 非常好的包容性 &gt;第三方库支持</p><p>缺点</p><pre><code>* 学习成败 &amp; 短期开发成本</code></pre><p>interface<br>    * 对 对象的形状进行描述 shape<br>    * 对类 进行抽象 class<br>    * 鸭子类型 duck typing</p><p>class<br>    * class 定义了一切事物的抽象特点<br>    * object 类的实例<br>    * 面向对象 oop 三大特性：封装 继承 多态</p><p>public 是公有的，可修改，可读取的private 属性“name”为私有属性，只能在类“Animal”中访问protected 属性“name”受保护，只能在类“Animal”及其子类中访问。readonly 只读属性static 和创建的动态实例没有关系，是类自己特有的属性方法interface 定义约束内容 用implements方法 抽象类的属性和方法，定义函数的类型generics<br>    * 定义函数接口或者类的时候，不先指定类型，使用的时候再指定类型<br>    * 占位符，变量，约束<br>    * 约束泛型 用 extends 继承 interface</p><p>type aliases //类型别名<br>type assertion //类型断言</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;编程语言的类型&lt;br&gt;    * 动态类型语言(运行的时候 数据类型检查)&lt;br&gt;    * 静态类型语言(编译的时候 数据类型检查)&lt;/p&gt;
+&lt;p&gt;为什么使用&lt;br&gt;    * 程序更容易理解 &amp;gt;代码就是注释&lt;br&gt;    * 效率更高 &amp;gt;代码补全 代码跳转 </summary>
+      
+    
+    
+    
+    <category term="Javascript" scheme="http://example.com/categories/Javascript/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>React</title>
+    <link href="http://example.com/wiki/Javascript/React/"/>
+    <id>http://example.com/wiki/Javascript/React/</id>
+    <published>2021-03-17T06:20:27.686Z</published>
+    <updated>2021-03-17T07:07:35.193Z</updated>
+    
+    <content type="html"><![CDATA[<p>VUE<br>双向绑定，强调在不同组件中同步状态REACT 只有单一数据源（状态提升和单向数据流），在应用中保持自上而下的数据流，在有数据源的地方做综合处理</p><p>npx 调用包里的某个模块 npm run 会新建一个shell执行脚本命令，将node_modules 模块加入path变量，执行结束后将path命令恢复原样</p><p><strong>React Hook</strong></p><ul><li><p>使用函数式组件代替class组件的写法（没有破坏性改动 / 百分之百向后兼容 / 完全可选 / 没有计划移除Class）</p></li><li><p>组件很难复用状态逻辑</p></li><li><p>业务复杂难以理解，尤其是生命周期</p></li><li><p>React 组件一直是函数，使用Hook完全拥抱函数</p></li></ul><p><strong>Effect Hook</strong> react 更新DOM后：发送一个网络请求，主动变更DOM，记录日志）</p><ul><li>无需清除的effect</li><li>需要清除的effect 在下一次的render后 remove effect </li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;VUE&lt;br&gt;双向绑定，强调在不同组件中同步状态REACT 只有单一数据源（状态提升和单向数据流），在应用中保持自上而下的数据流，在有数据源的地方做综合处理&lt;/p&gt;
+&lt;p&gt;npx 调用包里的某个模块 npm run 会新建一个shell执行脚本命令，将node_module</summary>
+      
+    
+    
+    
+    <category term="Javascript" scheme="http://example.com/categories/Javascript/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>koa</title>
+    <link href="http://example.com/wiki/Javascript/koa/"/>
+    <id>http://example.com/wiki/Javascript/koa/</id>
+    <published>2021-03-17T06:20:27.682Z</published>
+    <updated>2021-03-17T07:07:41.978Z</updated>
+    
+    <content type="html"><![CDATA[<p><strong>什么是koa</strong>   </p><p>koa是一个新的WEB框架   </p><p>利用async函数丢弃回调函数，增强错误处理。（使用同步的写法去执行异步的函数）   </p><p>没有任何预置的中间件</p><p><strong>koa核心概念</strong>  </p><p>koa Application(应用程序)  </p><p>Context (上下文)  </p><p>request（请求）、response (相应)   </p><p><strong>koa核心概念</strong></p><p>洋葱模型执行的顺序：顺序执行</p><p>回调的顺序：反向执行</p><p>先进后出</p><p><strong>koa中间件</strong></p><p>路由：koa-router</p><p>协议解析： koa-body</p><p>跨域处理： @koa/cors</p><p>路由压缩： koa-combine-routers</p><p>静态资源： koa-static</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;strong&gt;什么是koa&lt;/strong&gt;   &lt;/p&gt;
+&lt;p&gt;koa是一个新的WEB框架   &lt;/p&gt;
+&lt;p&gt;利用async函数丢弃回调函数，增强错误处理。（使用同步的写法去执行异步的函数）   &lt;/p&gt;
+&lt;p&gt;没有任何预置的中间件&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;ko</summary>
+      
+    
+    
+    
+    <category term="Javascript" scheme="http://example.com/categories/Javascript/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>书签</title>
+    <link href="http://example.com/wiki/Daily/%E4%B9%A6%E7%AD%BE/"/>
+    <id>http://example.com/wiki/Daily/%E4%B9%A6%E7%AD%BE/</id>
+    <published>2021-03-17T06:20:27.671Z</published>
+    <updated>2021-03-17T07:06:45.189Z</updated>
+    
+    <content type="html"><![CDATA[<p>Javascript 中数据类型那些可能会中招的细节<br><a href="https://mp.weixin.qq.com/s/zf981TL50USDRyBUdAYMyA">https://mp.weixin.qq.com/s/zf981TL50USDRyBUdAYMyA</a></p><p>冴羽的博客<br><a href="https://github.com/mqyqingfeng/Blog">https://github.com/mqyqingfeng/Blog</a></p><p>JavaScript深入之从原型到原型链<br><a href="https://github.com/mqyqingfeng/Blog/issues/2">https://github.com/mqyqingfeng/Blog/issues/2</a></p><p>前端年后面试真题，会80%直接进大厂<br><a href="https://bitable.feishu.cn/app8Ok6k9qafpMkgyRbfgxeEnet?from=logout&amp;table=tblLUxZFqOA2vI2F&amp;view=vew0lbb2R4">https://bitable.feishu.cn/app8Ok6k9qafpMkgyRbfgxeEnet?from=logout&amp;table=tblLUxZFqOA2vI2F&amp;view=vew0lbb2R4</a></p><p>面经<br><a href="https://juejin.im/post/5e8d5a48f265da47ce6cb21f">https://juejin.im/post/5e8d5a48f265da47ce6cb21f</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Javascript 中数据类型那些可能会中招的细节&lt;br&gt;&lt;a href=&quot;https://mp.weixin.qq.com/s/zf981TL50USDRyBUdAYMyA&quot;&gt;https://mp.weixin.qq.com/s/zf981TL50USDRyBUdAYM</summary>
+      
+    
+    
+    
+    <category term="Daily" scheme="http://example.com/categories/Daily/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>use</title>
+    <link href="http://example.com/wiki/Daily/use/"/>
+    <id>http://example.com/wiki/Daily/use/</id>
+    <published>2021-03-17T06:20:27.666Z</published>
+    <updated>2021-03-17T07:09:28.684Z</updated>
+    
+    <content type="html"><![CDATA[<p>this.$set(v, ‘aaa’, ‘’)</p><p>Object.assign(this.$data.form, this.$options.data().form)<br>Object.assign(this.$data, this.$options.data()) // 重置data对象到初始化状态</p><p>finally()<br>.catch(error =&gt; {  this.$message.error(error.msg)})</p><p>{ min: 3, max: 32, message: ‘长度在 3 到 32 个字符’, trigger: ‘blur’ }<br>{ validator(r, v, b) { (/(^[1-9]\d*$)/).test(v) ? b() : b(new Error(‘ ‘)) } }</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;this.$set(v, ‘aaa’, ‘’)&lt;/p&gt;
+&lt;p&gt;Object.assign(this.$data.form, this.$options.data().form)&lt;br&gt;Object.assign(this.$data, this.$options.data(</summary>
+      
+    
+    
+    
+    <category term="Daily" scheme="http://example.com/categories/Daily/"/>
+    
+    
+    <category term="aa" scheme="http://example.com/tags/aa/"/>
+    
+  </entry>
+  
+</feed>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://example.com/wiki/Daily/use/</loc>
+    
+    <lastmod>2021-03-17</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/wiki/Work/2021-03-15%20%E9%9C%80%E6%B1%82/</loc>
+    
+    <lastmod>2021-03-17</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/wiki/Resume/%E7%AE%80%E5%8E%86/</loc>
+    
+    <lastmod>2021-03-17</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/wiki/Javascript/koa/</loc>
+    
+    <lastmod>2021-03-17</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/wiki/Javascript/React/</loc>
+    
+    <lastmod>2021-03-17</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/wiki/Javascript/typescript/</loc>
+    
+    <lastmod>2021-03-17</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/wiki/Javascript/%E6%A1%86%E6%9E%B6%E5%AF%B9%E6%AF%94/</loc>
+    
+    <lastmod>2021-03-17</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/wiki/Daily/%E4%B9%A6%E7%AD%BE/</loc>
+    
+    <lastmod>2021-03-17</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/index.html</loc>
+    
+    <lastmod>2021-03-17</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/categories/index.html</loc>
+    
+    <lastmod>2021-03-17</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/about/index.html</loc>
+    
+    <lastmod>2021-03-17</lastmod>
+    
+  </url>
+  
+
+  <url>
+    <loc>http://example.com/</loc>
+    <lastmod>2021-03-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  
+  <url>
+    <loc>http://example.com/tags/aa/</loc>
+    <lastmod>2021-03-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+
+  
+  <url>
+    <loc>http://example.com/categories/Javascript/</loc>
+    <lastmod>2021-03-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/categories/Resume/</loc>
+    <lastmod>2021-03-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/categories/Work/</loc>
+    <lastmod>2021-03-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/categories/Daily/</loc>
+    <lastmod>2021-03-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+</urlset>
